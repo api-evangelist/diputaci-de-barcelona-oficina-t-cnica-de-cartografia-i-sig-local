@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Diputació de Barcelona-Oficina Tècnica de Cartografia i Sig Local is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.diba.cat/idebarcelona
+The Diputació de Barcelona – Oficina Tècnica de Cartografia i SIG Local is the technical office of the Barcelona Provincial Council responsible for cartography, geographic information systems, and spatial data services. It supports the 311 municipalities of the province with mapping, land‑use data, and geospatial analysis tools, fostering local government transparency and citizen services through open data initiatives.
+
+**Areas:** Company · Government · GIS · Cartography · OpenData
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.diba.cat/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/diputaci-de-barcelona-oficina-t-cnica-de-cartografia-i-sig-local/](https://apis.io/providers/diputaci-de-barcelona-oficina-t-cnica-de-cartografia-i-sig-local/).
